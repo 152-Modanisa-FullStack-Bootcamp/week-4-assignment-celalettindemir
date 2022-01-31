@@ -4,6 +4,7 @@ logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+*lock.json
 
 # Runtime data
 pids
@@ -56,6 +57,7 @@ typings/
 
 # next.js build output
 .next
+.idea
 
 /screenshots/compare
 /screenshots/diff
